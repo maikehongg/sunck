@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 maike hong  is  a cool man  1111111kskkskskks
 ksdjkskdjsk
 ksjdkjskj
@@ -17,5 +18,6 @@ skdjks
 00000000000
 11111111111
 888
+
 
 
